@@ -4,9 +4,10 @@ This is list of "places" in Slovenia where you can enjoy decent cup of coffee �
 
 To be on this list you *MUST* provide decent:
 
-1) Wi-Fi.
-2) Ambient without annoying / loud music.
-3) Coffee ☕️ and tea 🍵.
+* Wi-Fi.
+* Ambient without annoying / loud music.
+* Coffee ☕️ and tea 🍵.
+
 
 > Please do tell me if I missed something via [@otobrglez](https://twitter.com/otobrglez) or do [new PR](https://github.com/otobrglez/awesome-workplaces-slovenia/pulls).
 
