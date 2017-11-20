@@ -62,6 +62,10 @@ To be on this list you *MUST* provide descent:
 - [Homepage](http://www.daktari.si/)
 - [Facebook](https://www.facebook.com/KlubDaktari)
 
+## Dobra Poteza
+
+- [Twitter](https://twitter.com/DobraPoteza)
+
 # Maribor
 
 ## Isabella - Food & Wine
@@ -77,6 +81,11 @@ To be on this list you *MUST* provide descent:
 
 - [Homepage](http://www.kavarnaq.si/?page_id=15)
 
+# Koper
+
+## Bife Museum
+-[Foursquare](https://foursquare.com/v/bife-museum/4f05911e77c8f87cd1820ff9)
+
 # Contributors
 
 > Please do tell me if I missed something via [@otobrglez](https://twitter.com/otobrglez) or do [new PR](https://github.com/otobrglez/awesome-workplaces-slovenia/pulls).
@@ -85,3 +94,4 @@ To be on this list you *MUST* provide descent:
 - [@matixmatix](https://twitter.com/matixmatix)
 - [@mr_foto](https://twitter.com/mr_foto)
 - [@doknicvesna](https://twitter.com/doknicvesna)
+- [@aslavec](https://twitter.com/aslavec)
