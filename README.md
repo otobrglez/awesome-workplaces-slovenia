@@ -75,6 +75,10 @@ To be on this list you *MUST* provide descent:
 
 # Maribor
 
+## Pisarna
+
+- [Facebook](https://www.facebook.com/PisarnaCoworkingAndCoffee)
+
 ## Isabella - Food & Wine
 
 - [Foursquare](https://foursquare.com/v/isabella-food--wine/4d7a0da6c307a35d89234e31)
@@ -103,3 +107,4 @@ To be on this list you *MUST* provide descent:
 - [@mr_foto](https://twitter.com/mr_foto)
 - [@doknicvesna](https://twitter.com/doknicvesna)
 - [@aslavec](https://twitter.com/aslavec)
+- [@ino_murko](https://twitter.com/ino_murko)
