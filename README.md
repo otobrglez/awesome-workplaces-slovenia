@@ -47,6 +47,11 @@
 
 - [Homepage](https://www.facebook.com/pritlicje/)
 
+## Klub Daktari
+
+- [Homepage](http://www.daktari.si/)
+- Zanesljiv in hiter WiFi, prijeten ambient
+
 # Contributors
 
 - [Oto Brglez](https://github.com/otobrglez)
