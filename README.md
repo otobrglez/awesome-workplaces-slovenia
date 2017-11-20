@@ -22,6 +22,10 @@
 
 - [Homepage](http://www.stapotovanja.com/sta/sta-travel-cafe)
 
+## Črno Zrno
+
+- [Twitter - @crno_zrno](https://twitter.com/crno_zrno)
+
 # Contributors
 
 - [Oto Brglez](https://github.com/otobrglez)
