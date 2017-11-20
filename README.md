@@ -98,6 +98,14 @@ To be on this list you *MUST* provide descent:
 
 - [Homepage](http://www.kavarnaq.si/?page_id=15)
 
+# Ptuj
+
+## MuziKafe
+
+- [Homepage](http://www.muzikafe.si/)
+- [Facebook](https://www.facebook.com/domkulture.muzikafe)
+- [Map](https://www.google.com/maps?ll=46.418909,15.87039&z=14&t=m&hl=en&gl=US&mapclient=embed&q=Vrazov+trg+1+2250+Ptuj+Slovenia)
+
 # Koper
 
 ## Bife Museum
