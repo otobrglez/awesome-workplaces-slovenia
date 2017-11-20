@@ -6,7 +6,7 @@ To be on this list you *MUST* provide decent:
 
 1) Wi-Fi.
 2) Ambient without anoying / loud music.
-3) Coffee ☕️ and tea 🍵. 
+3) Coffee ☕️ and tea 🍵.
 
 > Please do tell me if I missed something via [@otobrglez](https://twitter.com/otobrglez) or do [new PR](https://github.com/otobrglez/awesome-workplaces-slovenia/pulls).
 
@@ -15,11 +15,12 @@ To be on this list you *MUST* provide decent:
 - [Ljubljana](#ljubljana)
 - [Maribor](#maribor)
 - [Koper](#koper)
+- [Nova Gorica](#nova-gorica)
 - [Ptuj](#ptuj)
 - [Velenje](#velenje)
 
 
-## Ljubljana
+# Ljubljana
 
 ## Poligon  - Creative Center
 
@@ -121,6 +122,19 @@ To be on this list you *MUST* provide decent:
 
 - [Foursquare](https://foursquare.com/v/bife-museum/4f05911e77c8f87cd1820ff9)
 
+# Nova Gorica
+
+## Fabrika bar
+
+- [Homepage](http://fabrika-bar.si/)
+- [Facebook](https://www.facebook.com/fabrikabar.si/)
+- [Foursquare](https://foursquare.com/v/fabrika-barmore/55831d17498ea0faf6c733b6)
+
+## Cafe Gallus
+
+- [Facebook](https://www.facebook.com/Caffegallus/)
+- [Foursquare](https://foursquare.com/v/cafe-gallus/525ac68711d2c946b54ff161)
+
 # Velenje
 
 ## Kavarna Nova
@@ -145,3 +159,4 @@ To be on this list you *MUST* provide decent:
 - [@kvadratek](https://twitter.com/kvadratek)
 - [@c05m1x](https://twitter.com/c05m1x)
 - [@sparkica](https://twitter.com/sparkica)
+- [@davision](https://twitter.com/davision)
