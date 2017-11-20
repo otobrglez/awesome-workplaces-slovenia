@@ -16,7 +16,7 @@ To be on this list you *MUST* provide descent:
 - [Maribor](#maribor)
 - [Koper](#koper)
 - [Ptuj](#ptuj)
-- [Velenje](#velenje]
+- [Velenje](#velenje)
 
 
 ## Ljubljana
