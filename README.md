@@ -78,6 +78,7 @@ To be on this list you *MUST* provide descent:
 ## Pisarna
 
 - [Facebook](https://www.facebook.com/PisarnaCoworkingAndCoffee)
+- [Map](http://share.here.com/r/mylocation/e-eyJuYW1lIjoiUGlzYXJuYSIsImFkZHJlc3MiOiJWZXRyaW5qc2thIHVsaWNhIDMwLCBNYXJpYm9yLCBTbG92ZW5pYSIsImxhdGl0dWRlIjo0Ni41NTg5OCwibG9uZ2l0dWRlIjoxNS42NDgwMywicHJvdmlkZXJOYW1lIjoiZmFjZWJvb2siLCJwcm92aWRlcklkIjoxNDQxMzU2Njk2NTg1NTN9?link=addresses&fb_locale=en_US&ref=facebook)
 
 ## Isabella - Food & Wine
 
