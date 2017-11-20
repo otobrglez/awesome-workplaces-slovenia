@@ -91,6 +91,13 @@ To be on this list you *MUST* provide decent:
 
 - [Foursquare](https://foursquare.com/v/isabella-food--wine/4d7a0da6c307a35d89234e31)
 
+## [Kibla - KiBar]
+
+- [Homepage](http://www.kibla.org/en/sections/kibar-cybernetic-bar/)
+- [Facebook](https://www.facebook.com/KIDKIBLA/)
+- [Map](https://www.google.si/maps/place/Kulturno+izobra%C5%BEevalno+dru%C5%A1tvo+kibla/@46.5575463,15.6487589,20z/data=!4m12!1m6!3m5!1s0x476f77a8694c6ac3:0xb5fdffbfafcf3a3a!2sKulturno+izobra%C5%BEevalno+dru%C5%A1tvo+kibla!8m2!3d46.5575464!4d15.649249!3m4!1s0x476f77a8694c6ac3:0xb5fdffbfafcf3a3a!8m2!3d46.5575464!4d15.649249?hl=en)
+
+
 ## Leon
 
 - [Homepage](http://prileonu.si)
@@ -137,3 +144,4 @@ To be on this list you *MUST* provide decent:
 - [@ino_murko](https://twitter.com/ino_murko)
 - [@kvadratek](https://twitter.com/kvadratek)
 - [@c05m1x](https://twitter.com/c05m1x)
+- [@sparkica](https://twitter.com/sparkica)
