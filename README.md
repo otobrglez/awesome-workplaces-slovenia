@@ -2,7 +2,7 @@
 
 This is list of "places" in Slovenia where you can enjoy decent cup of coffee ☕️  with solid Wi-Fi 📡 to do some ~~serious~~ work.
 
-To be on this list you *MUST* provide descent:
+To be on this list you *MUST* provide decent:
 
 1) Wi-Fi.
 2) Ambient without anoying / loud music.
