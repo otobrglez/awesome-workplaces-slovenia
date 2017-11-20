@@ -21,6 +21,7 @@ To be on this list you *MUST* provide decent:
 - [Nova Gorica](#nova-gorica)
 - [Ptuj](#ptuj)
 - [Velenje](#velenje)
+- [Murska Sobota](#murska-sobota)
 
 
 # Ljubljana
@@ -117,6 +118,10 @@ To be on this list you *MUST* provide decent:
 
 - [Homepage](http://www.kavarnaq.si/?page_id=15)
 
+## Tkalka
+- [Homepage](http://brazde.org/2015/caap/tkalka-sodelovalni-prostor/)
+- [Facebook](https://www.facebook.com/tkalka.weaver/)
+
 # Ptuj
 
 ## MuziKafe
@@ -162,6 +167,25 @@ To be on this list you *MUST* provide decent:
 - [Homepage](http://hotelpaka.com/)
 - [Facebook](https://www.facebook.com/hphotel.paka/)
 
+# Murska Sobota
+
+## Aurora Coworking
+
+- [Homepage](http://www.auroracoworking.com/)
+- [Facebook](https://www.facebook.com/auroracoworking/)
+
+## Bunker
+
+- [Facebook](https://www.facebook.com/Bunker2047)
+
+## MiKK 
+
+- [Homepage](http://www.mikk.si/)
+- [Facebook](https://www.facebook.com/mikk.ms/)
+
+
+
+
 # Contributors
 
 > Please do tell me if I missed something via [@otobrglez](https://twitter.com/otobrglez) or do [new PR](https://github.com/otobrglez/awesome-workplaces-slovenia/pulls).
@@ -177,3 +201,4 @@ To be on this list you *MUST* provide decent:
 - [@sparkica](https://twitter.com/sparkica)
 - [@davision](https://twitter.com/davision)
 - [@Matic_Uzmah](https://twitter.com/Matic_Uzmah)
+- [@metalcamp](https://github.com/metalcamp)
