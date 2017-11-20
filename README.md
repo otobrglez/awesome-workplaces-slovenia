@@ -32,6 +32,15 @@
 - [Homepage](http://ljubljana.ziferblat.net/en/)
 - [Facebook](https://www.facebook.com/ZiferblatLjubljana)
 
+## Kavarna SEM
+
+- [Homepage](http://www.etno-muzej.si/sl/lokacije/kavarna-sem)
+- [Facebook](https://www.facebook.com/kavarnaSEM/)
+
+## Pritličje
+
+- [Homepage](https://www.facebook.com/pritlicje/)
+
 # Contributors
 
 - [Oto Brglez](https://github.com/otobrglez)
