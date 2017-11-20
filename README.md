@@ -25,6 +25,7 @@ This is list of "places" in Slovenia where you can enjoy decent cup of coffee â˜
 
 ## Mini Cafe Gold
 
+- [Homepage](http://www.minicafegolf.com)
 - [Facebook](https://www.facebook.com/minigolftivoli/)
 
 ## STA Travel Cafe
