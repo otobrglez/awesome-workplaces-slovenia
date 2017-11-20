@@ -30,6 +30,11 @@ To be on this list you *MUST* provide descent:
 - [Homepage](http://www.mg-lj.si/si/obisk/1263/kavarna-moderna/)
 - [Facebook](https://www.facebook.com/kavarnamoderna)
 
+## Klub Daktari
+
+- [Homepage](http://www.daktari.si/)
+- [Facebook](https://www.facebook.com/KlubDaktari)
+
 ## Kino Šiška
 
 - [Homepage](http://www.kinosiska.si/)
@@ -64,10 +69,10 @@ To be on this list you *MUST* provide descent:
 
 - [Homepage](https://www.facebook.com/pritlicje/)
 
-## Klub Daktari
+## Egoist
 
-- [Homepage](http://www.daktari.si/)
-- [Facebook](https://www.facebook.com/KlubDaktari)
+- [Homepage](http://www.egoist-loungebar.si/)
+- [Facebook](https://www.facebook.com/egoist.loungebar.7/)
 
 ## Dobra Poteza
 
@@ -109,3 +114,4 @@ To be on this list you *MUST* provide descent:
 - [@doknicvesna](https://twitter.com/doknicvesna)
 - [@aslavec](https://twitter.com/aslavec)
 - [@ino_murko](https://twitter.com/ino_murko)
+- [@kvadratek](https://twitter.com/kvadratek)
