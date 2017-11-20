@@ -64,3 +64,5 @@ This is list of "places" in Slovenia where you can enjoy decent cup of coffee â˜
 # Contributors
 
 - [Oto Brglez](https://github.com/otobrglez)
+- [Miha Rekar](https://twitter.com/mr_foto)
+- [Vesna DokniÄ‡](https://twitter.com/doknicvesna)
