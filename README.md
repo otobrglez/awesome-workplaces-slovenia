@@ -5,7 +5,7 @@ This is list of "places" in Slovenia where you can enjoy decent cup of coffee �
 To be on this list you *MUST* provide decent:
 
 1) Wi-Fi.
-2) Ambient without anoying / loud music.
+2) Ambient without annoying / loud music.
 3) Coffee ☕️ and tea 🍵.
 
 > Please do tell me if I missed something via [@otobrglez](https://twitter.com/otobrglez) or do [new PR](https://github.com/otobrglez/awesome-workplaces-slovenia/pulls).
@@ -97,7 +97,6 @@ To be on this list you *MUST* provide decent:
 - [Homepage](http://www.kibla.org/en/sections/kibar-cybernetic-bar/)
 - [Facebook](https://www.facebook.com/KIDKIBLA/)
 - [Map](https://www.google.si/maps/place/Kulturno+izobra%C5%BEevalno+dru%C5%A1tvo+kibla/@46.5575463,15.6487589,20z/data=!4m12!1m6!3m5!1s0x476f77a8694c6ac3:0xb5fdffbfafcf3a3a!2sKulturno+izobra%C5%BEevalno+dru%C5%A1tvo+kibla!8m2!3d46.5575464!4d15.649249!3m4!1s0x476f77a8694c6ac3:0xb5fdffbfafcf3a3a!8m2!3d46.5575464!4d15.649249?hl=en)
-
 
 ## Leon
 
