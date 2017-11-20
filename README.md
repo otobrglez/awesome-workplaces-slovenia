@@ -18,6 +18,10 @@
 - [Facebook](http://www.kinosiska.si/)
 - [Map](https://www.google.co.uk/maps/place/Kino+%C5%A0i%C5%A1ka+-+Center+urbane+kulture/@46.0689353,14.4869246,17z/data=!3m1!4b1!4m5!3m4!1s0x476532b1175d80cf:0x2be428343fdb306!8m2!3d46.0689316!4d14.4891133?hl=en)
 
+## STA Travel Cafe
+
+- [Homepage](http://www.stapotovanja.com/sta/sta-travel-cafe)
+
 # Contributors
 
 - [Oto Brglez](https://github.com/otobrglez)
