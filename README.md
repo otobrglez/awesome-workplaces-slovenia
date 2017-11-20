@@ -91,7 +91,7 @@ To be on this list you *MUST* provide decent:
 
 - [Foursquare](https://foursquare.com/v/isabella-food--wine/4d7a0da6c307a35d89234e31)
 
-## [Kibla - KiBar]
+## Kibla - KiBar
 
 - [Homepage](http://www.kibla.org/en/sections/kibar-cybernetic-bar/)
 - [Facebook](https://www.facebook.com/KIDKIBLA/)
