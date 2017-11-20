@@ -51,6 +51,17 @@ This is list of "places" in Slovenia where you can enjoy decent cup of coffee â˜
 
 - [Homepage](https://www.facebook.com/pritlicje/)
 
+# Maribor
+
+## Leon
+
+- [Homepage](http://prileonu.si)
+- [Facebook](https://www.facebook.com/PriLeonu/)
+
+## Kavarna Q
+
+- [Homepage](http://www.kavarnaq.si/?page_id=15)
+
 # Contributors
 
 - [Oto Brglez](https://github.com/otobrglez)
