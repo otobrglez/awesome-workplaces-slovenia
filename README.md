@@ -84,6 +84,11 @@ To be on this list you *MUST* provide decent:
 
 - [Twitter](https://twitter.com/DobraPoteza)
 
+## ProteusThemesHQ
+
+- [Homepage](https://www.proteusthemes.com/)
+- [Description of the place with images](https://medium.com/@primozcigler/rent-a-quiet-and-productive-working-space-at-the-proteusthemes-office-in-ljubljana-slovenia-4fb4e4975973)
+
 # Maribor
 
 ## Pisarna
@@ -177,3 +182,4 @@ To be on this list you *MUST* provide decent:
 - [@sparkica](https://twitter.com/sparkica)
 - [@davision](https://twitter.com/davision)
 - [@Matic_Uzmah](https://twitter.com/Matic_Uzmah)
+- [@primozcigler](https://twitter.com/primozcigler)
