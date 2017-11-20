@@ -27,6 +27,11 @@
 - [Twitter - @crno_zrno](https://twitter.com/crno_zrno)
 - [Homepage](https://www.crnozrno.com)
 
+## Ziferblat
+
+- [Homepage](http://ljubljana.ziferblat.net/en/)
+- [Facebook](https://www.facebook.com/ZiferblatLjubljana)
+
 # Contributors
 
 - [Oto Brglez](https://github.com/otobrglez)
