@@ -27,11 +27,6 @@ This is list of "places" in Slovenia where you can enjoy decent cup of coffee â˜
 
 - [Homepage](http://www.stapotovanja.com/sta/sta-travel-cafe)
 
-## ÄŒrno Zrno
-
-- [Twitter - @crno_zrno](https://twitter.com/crno_zrno)
-- [Homepage](https://www.crnozrno.com)
-
 ## Ziferblat
 
 - [Homepage](http://ljubljana.ziferblat.net/en/)
