@@ -72,6 +72,8 @@ This is list of "places" in Slovenia where you can enjoy decent cup of coffee â˜
 
 # Contributors
 
+> Please do tell me if I missed something via [@otobrglez](https://twitter.com/otobrglez) or do [new PR](https://github.com/otobrglez/awesome-workplaces-slovenia/pulls).
+
 - [@otobrglez](https://github.com/otobrglez)
 - [@matixmatix](https://twitter.com/matixmatix)
 - [@mr_foto](https://twitter.com/mr_foto)
