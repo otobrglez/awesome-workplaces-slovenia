@@ -87,6 +87,13 @@ To be on this list you *MUST* provide decent:
 - [Facebook](https://www.facebook.com/PisarnaCoworkingAndCoffee)
 - [Map](http://share.here.com/r/mylocation/e-eyJuYW1lIjoiUGlzYXJuYSIsImFkZHJlc3MiOiJWZXRyaW5qc2thIHVsaWNhIDMwLCBNYXJpYm9yLCBTbG92ZW5pYSIsImxhdGl0dWRlIjo0Ni41NTg5OCwibG9uZ2l0dWRlIjoxNS42NDgwMywicHJvdmlkZXJOYW1lIjoiZmFjZWJvb2siLCJwcm92aWRlcklkIjoxNDQxMzU2Njk2NTg1NTN9?link=addresses&fb_locale=en_US&ref=facebook)
 
+## Coworking Maribor
+
+- [Homepage](http://coworkingmaribor.si/)
+- [Facebook](https://www.facebook.com/coworkingmaribor/)
+- [Map](https://www.google.com/maps/place/Mariborska+razvojna+agencija+P.O./@46.55268,15.65143,15z/data=!4m5!3m4!1s0x0:0xc1cc816cac92d45c!8m2!3d46.5526801!4d15.6514299?ll=46.55268,15.65143&z=15&t=m&hl=en-US&gl=SI&mapclient=embed&cid=13964678848320820316)
+
+
 ## Isabella - Food & Wine
 
 - [Foursquare](https://foursquare.com/v/isabella-food--wine/4d7a0da6c307a35d89234e31)
