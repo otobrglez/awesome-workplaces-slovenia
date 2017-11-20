@@ -10,6 +10,13 @@ To be on this list you *MUST* provide descent:
 
 > Please do tell me if I missed something via [@otobrglez](https://twitter.com/otobrglez) or do [new PR](https://github.com/otobrglez/awesome-workplaces-slovenia/pulls).
 
+## 🏙 Cities 🏙
+
+- [Ljubljana](#ljubljana)
+- [Maribor](#maribor)
+- [Koper](#koper)
+
+
 ## Ljubljana
 
 ## Poligon  - Creative Center
@@ -84,7 +91,8 @@ To be on this list you *MUST* provide descent:
 # Koper
 
 ## Bife Museum
--[Foursquare](https://foursquare.com/v/bife-museum/4f05911e77c8f87cd1820ff9)
+
+- [Foursquare](https://foursquare.com/v/bife-museum/4f05911e77c8f87cd1820ff9)
 
 # Contributors
 
