@@ -8,10 +8,10 @@
 - [Facebook](https://www.facebook.com/PoligonCreativeCentre/)
 - [Map](http://share.here.com/r/mylocation/e-eyJuYW1lIjoiUG9saWdvbiAtPiBrcmVhdGl2bmkgY2VudGVyIiwiYWRkcmVzcyI6IlRvYmFcdTAxMGRuYSB1bGljYSA1LCBManVibGphbmEsIFNsb3ZlbmlhIiwibGF0aXR1ZGUiOjQ2LjA0ODU4LCJsb25naXR1ZGUiOjE0LjQ5NDAzLCJwcm92aWRlck5hbWUiOiJmYWNlYm9vayIsInByb3ZpZGVySWQiOjI3MTQ5NjE5OTY3MjU5OX0=?link=addresses&fb_locale=en_US&ref=facebook)
 
-## Drama Kavarna
+## Kavarna Moderna
 
-- [Facebook](https://www.facebook.com/DramaKavarna/)
-- [Map](http://share.here.com/r/mylocation/e-eyJuYW1lIjoiRHJhbWFLYXZhcm5hIiwiYWRkcmVzcyI6IkVyamF2XHUwMTBkZXZhIDEsIExqdWJsamFuYSwgU2xvdmVuaWEiLCJsYXRpdHVkZSI6NDYuMDQ4OTcsImxvbmdpdHVkZSI6MTQuNTAxMzgsInByb3ZpZGVyTmFtZSI6ImZhY2Vib29rIiwicHJvdmlkZXJJZCI6NzE2ODQ1MTA1MDYxMzEwfQ==?link=addresses&fb_locale=en_US&ref=facebook)
+- [Homepage](http://www.mg-lj.si/si/obisk/1263/kavarna-moderna/)
+- [Facebook](https://www.facebook.com/kavarnamoderna)
 
 ## Kino Šiška
 
@@ -32,6 +32,11 @@
 
 - [Homepage](http://ljubljana.ziferblat.net/en/)
 - [Facebook](https://www.facebook.com/ZiferblatLjubljana)
+
+## Drama Kavarna
+
+- [Facebook](https://www.facebook.com/DramaKavarna/)
+- [Map](http://share.here.com/r/mylocation/e-eyJuYW1lIjoiRHJhbWFLYXZhcm5hIiwiYWRkcmVzcyI6IkVyamF2XHUwMTBkZXZhIDEsIExqdWJsamFuYSwgU2xvdmVuaWEiLCJsYXRpdHVkZSI6NDYuMDQ4OTcsImxvbmdpdHVkZSI6MTQuNTAxMzgsInByb3ZpZGVyTmFtZSI6ImZhY2Vib29rIiwicHJvdmlkZXJJZCI6NzE2ODQ1MTA1MDYxMzEwfQ==?link=addresses&fb_locale=en_US&ref=facebook)
 
 ## Kavarna SEM
 
