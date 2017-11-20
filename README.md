@@ -53,6 +53,10 @@ This is list of "places" in Slovenia where you can enjoy decent cup of coffee â˜
 
 # Maribor
 
+## Isabella - Foor & Wine
+
+- [Foursquare](https://foursquare.com/v/isabella-food--wine/4d7a0da6c307a35d89234e31)
+
 ## Leon
 
 - [Homepage](http://prileonu.si)
