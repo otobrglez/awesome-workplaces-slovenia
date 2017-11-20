@@ -6,6 +6,7 @@
 
 - [Homepage](http://www.poligon.si/)
 - [Facebook](https://www.facebook.com/PoligonCreativeCentre/)
+- [Map](http://share.here.com/r/mylocation/e-eyJuYW1lIjoiUG9saWdvbiAtPiBrcmVhdGl2bmkgY2VudGVyIiwiYWRkcmVzcyI6IlRvYmFcdTAxMGRuYSB1bGljYSA1LCBManVibGphbmEsIFNsb3ZlbmlhIiwibGF0aXR1ZGUiOjQ2LjA0ODU4LCJsb25naXR1ZGUiOjE0LjQ5NDAzLCJwcm92aWRlck5hbWUiOiJmYWNlYm9vayIsInByb3ZpZGVySWQiOjI3MTQ5NjE5OTY3MjU5OX0=?link=addresses&fb_locale=en_US&ref=facebook)
 
 ## Drama Kavarna
 
