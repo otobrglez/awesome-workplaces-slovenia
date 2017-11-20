@@ -16,6 +16,7 @@ To be on this list you *MUST* provide descent:
 - [Maribor](#maribor)
 - [Koper](#koper)
 - [Ptuj](#ptuj)
+- [Velenje](#velenje]
 
 
 ## Ljubljana
@@ -112,6 +113,12 @@ To be on this list you *MUST* provide descent:
 ## Bife Museum
 
 - [Foursquare](https://foursquare.com/v/bife-museum/4f05911e77c8f87cd1820ff9)
+
+# Velenje
+
+## Kavarna Nova
+
+- [Map](https://www.google.co.uk/maps/place/Kavarna+Nova/@46.3599016,15.1151933,17z/data=!3m1!4b1!4m5!3m4!1s0x476566d40eaabdf9:0x7a93e7258f3f39dc!8m2!3d46.3598979!4d15.117382?hl=en)
 
 # Contributors
 
