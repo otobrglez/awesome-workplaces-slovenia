@@ -1,4 +1,4 @@
-# Awesome workplaces in Slovenia
+# ⚙️ Awesome workplaces in Slovenia 🇸🇮
 
 This is list of "places" in Slovenia where you can enjoy decent cup of coffee ☕️  with solid Wi-Fi 📡 to do some ~~serious~~ work.
 
