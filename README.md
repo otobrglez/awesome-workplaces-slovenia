@@ -1,5 +1,9 @@
 # Awesome workplaces in Slovenia
 
+This is list of "places" in Slovenia where you can enjoy decent cup of coffee ☕️  with solid Wi-Fi 📡 to do some ~~serious~~ work.
+
+> Please do tell me if I missed something via [@otobrglez](https://twitter.com/otobrglez) or do [new PR](https://github.com/otobrglez/awesome-workplaces-slovenia/pulls)
+
 ## Ljubljana
 
 ## Poligon  - Creative Center
