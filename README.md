@@ -16,6 +16,7 @@ To be on this list you *MUST* provide decent:
 - [Ljubljana](#ljubljana)
 - [Maribor](#maribor)
 - [Koper](#koper)
+- [Celje](#celje)
 - [Nova Gorica](#nova-gorica)
 - [Ptuj](#ptuj)
 - [Velenje](#velenje)
@@ -129,6 +130,13 @@ To be on this list you *MUST* provide decent:
 
 - [Foursquare](https://foursquare.com/v/bife-museum/4f05911e77c8f87cd1820ff9)
 
+# Celje
+
+## Uzitkarna Beli Vol
+
+- [Facebook](https://www.facebook.com/UzitkarnaBeliVol/)
+- [Map](https://l.facebook.com/l.php?u=http%3A%2F%2Fshare.here.com%2Fr%2Fmylocation%2Fe-eyJuYW1lIjoiVVx1MDE3ZWl0a2FybmEgQmVsaSBWb2wiLCJhZGRyZXNzIjoiU3RhbmV0b3ZhIHVsaWNhIDMsIENlbGplIiwibGF0aXR1ZGUiOjQ2LjIyOTExODM2NjY2NywibG9uZ2l0dWRlIjoxNS4yNjQ5MTYxNiwicHJvdmlkZXJOYW1lIjoiZmFjZWJvb2siLCJwcm92aWRlcklkIjo4MDkzMDg3NjU4MDE1ODB9%3Flink%3Daddresses%26fb_locale%3Den_US%26ref%3Dfacebook&h=ATMt4tgZELTW3bRufTI6lskDqwfboCaLQyq0eTnKnWWwoF491qAyz-8iZWg5xbt7fEF7kLXaq99U6MKVsQBOKxKQwLpnXld1YLVN9tuorlWYQIUR9tEBuJw9meQCltjzDHzGI1P-003w4nfgWE_S-WvpDgIyzQ)
+
 # Nova Gorica
 
 ## Fabrika bar
@@ -167,3 +175,4 @@ To be on this list you *MUST* provide decent:
 - [@c05m1x](https://twitter.com/c05m1x)
 - [@sparkica](https://twitter.com/sparkica)
 - [@davision](https://twitter.com/davision)
+- [@Matic_Uzmah](https://twitter.com/Matic_Uzmah)
