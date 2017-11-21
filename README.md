@@ -203,8 +203,9 @@ To be on this list you *MUST* provide decent:
 - [Facebook](https://www.facebook.com/brblarna.kavarna)
 - [Map](https://goo.gl/maps/eEbpndtFq9x)
 
+## BrivBARnica
 
-
+- [Facebook](https://www.facebook.com/brivbarnica/)
 
 # Contributors
 
