@@ -86,6 +86,12 @@ To be on this list you *MUST* provide decent:
 
 - [Twitter](https://twitter.com/DobraPoteza)
 
+## ProteusThemesHQ
+
+- [Homepage](https://www.proteusthemes.com/)
+- [Description of the place with images](https://medium.com/@primozcigler/rent-a-quiet-and-productive-working-space-at-the-proteusthemes-office-in-ljubljana-slovenia-4fb4e4975973)
+- [Map](https://goo.gl/maps/g65g65KAgRB2)
+
 # Maribor
 
 ## Pisarna
@@ -185,7 +191,7 @@ To be on this list you *MUST* provide decent:
 
 - [Facebook](https://www.facebook.com/Bunker2047)
 
-## MiKK 
+## MiKK
 
 - [Homepage](http://www.mikk.si/)
 - [Facebook](https://www.facebook.com/mikk.ms/)
@@ -198,7 +204,7 @@ To be on this list you *MUST* provide decent:
 - [Facebook](https://sl-si.facebook.com/gostisceloka)
 - [Map](https://goo.gl/maps/ND4baZk1aT32)
 
-## Brblarna 
+## Brblarna
 
 - [Facebook](https://www.facebook.com/brblarna.kavarna)
 - [Map](https://goo.gl/maps/eEbpndtFq9x)
@@ -222,6 +228,7 @@ To be on this list you *MUST* provide decent:
 - [@sparkica](https://twitter.com/sparkica)
 - [@davision](https://twitter.com/davision)
 - [@Matic_Uzmah](https://twitter.com/Matic_Uzmah)
+- [@primozcigler](https://twitter.com/primozcigler)
 - [@metalcamp](https://github.com/metalcamp)
 - [@mihacirman](https://twitter.com/mihacirman)
 - [@markobregant](https://twitter.com/markobregant)
