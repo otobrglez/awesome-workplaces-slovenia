@@ -22,6 +22,7 @@ To be on this list you *MUST* provide decent:
 - [Ptuj](#ptuj)
 - [Velenje](#velenje)
 - [Murska Sobota](#murska-sobota)
+- [Novo mesto](#novo-mesto)
 
 
 # Ljubljana
@@ -189,6 +190,19 @@ To be on this list you *MUST* provide decent:
 - [Homepage](http://www.mikk.si/)
 - [Facebook](https://www.facebook.com/mikk.ms/)
 
+# Novo mesto
+
+## Gostišče Loka
+
+- [Homepage](http://gostisce-loka.si/)
+- [Facebook](https://sl-si.facebook.com/gostisceloka)
+- [Map](https://goo.gl/maps/ND4baZk1aT32)
+
+## Brblarna 
+
+- [Facebook](https://www.facebook.com/brblarna.kavarna)
+- [Map](https://goo.gl/maps/eEbpndtFq9x)
+
 
 
 
@@ -209,3 +223,4 @@ To be on this list you *MUST* provide decent:
 - [@Matic_Uzmah](https://twitter.com/Matic_Uzmah)
 - [@metalcamp](https://github.com/metalcamp)
 - [@mihacirman](https://twitter.com/mihacirman)
+- [@markobregant](https://twitter.com/markobregant)
