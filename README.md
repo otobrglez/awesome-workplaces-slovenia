@@ -138,6 +138,12 @@ To be on this list you *MUST* provide decent:
 
 # Celje
 
+## Mladinski Center
+
+- [Homepage](http://www.mc-celje.si)
+- [Facebook](https://www.facebook.com/MCCdogaja)
+- [Map](http://share.here.com/r/mylocation/e-eyJuYW1lIjoiTWNjIENlbGpza2kgTWxhZGluc2tpIENlbnRlciIsImFkZHJlc3MiOiJNYXJpYm9yc2thIGNlc3RhIDIsIENlbGplIiwibGF0aXR1ZGUiOjQ2LjIzMjA1LCJsb25naXR1ZGUiOjE1LjI2NjY3LCJwcm92aWRlck5hbWUiOiJmYWNlYm9vayIsInByb3ZpZGVySWQiOjQxMjcxMTI2ODc3MzQ4MH0=?link=addresses&fb_locale=en_US&ref=facebook)
+
 ## Uzitkarna Beli Vol
 
 - [Facebook](https://www.facebook.com/UzitkarnaBeliVol/)
@@ -202,3 +208,4 @@ To be on this list you *MUST* provide decent:
 - [@davision](https://twitter.com/davision)
 - [@Matic_Uzmah](https://twitter.com/Matic_Uzmah)
 - [@metalcamp](https://github.com/metalcamp)
+- [@mihacirman](https://twitter.com/mihacirman)
