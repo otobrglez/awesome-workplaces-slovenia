@@ -21,6 +21,8 @@ To be on this list you *MUST* provide decent:
 - [Nova Gorica](#nova-gorica)
 - [Ptuj](#ptuj)
 - [Velenje](#velenje)
+- [Murska Sobota](#murska-sobota)
+- [Novo mesto](#novo-mesto)
 
 
 # Ljubljana
@@ -122,6 +124,10 @@ To be on this list you *MUST* provide decent:
 
 - [Homepage](http://www.kavarnaq.si/?page_id=15)
 
+## Tkalka
+- [Homepage](http://brazde.org/2015/caap/tkalka-sodelovalni-prostor/)
+- [Facebook](https://www.facebook.com/tkalka.weaver/)
+
 # Ptuj
 
 ## MuziKafe
@@ -137,6 +143,12 @@ To be on this list you *MUST* provide decent:
 - [Foursquare](https://foursquare.com/v/bife-museum/4f05911e77c8f87cd1820ff9)
 
 # Celje
+
+## Mladinski Center
+
+- [Homepage](http://www.mc-celje.si)
+- [Facebook](https://www.facebook.com/MCCdogaja)
+- [Map](http://share.here.com/r/mylocation/e-eyJuYW1lIjoiTWNjIENlbGpza2kgTWxhZGluc2tpIENlbnRlciIsImFkZHJlc3MiOiJNYXJpYm9yc2thIGNlc3RhIDIsIENlbGplIiwibGF0aXR1ZGUiOjQ2LjIzMjA1LCJsb25naXR1ZGUiOjE1LjI2NjY3LCJwcm92aWRlck5hbWUiOiJmYWNlYm9vayIsInByb3ZpZGVySWQiOjQxMjcxMTI2ODc3MzQ4MH0=?link=addresses&fb_locale=en_US&ref=facebook)
 
 ## Uzitkarna Beli Vol
 
@@ -167,6 +179,39 @@ To be on this list you *MUST* provide decent:
 - [Homepage](http://hotelpaka.com/)
 - [Facebook](https://www.facebook.com/hphotel.paka/)
 
+# Murska Sobota
+
+## Aurora Coworking
+
+- [Homepage](http://www.auroracoworking.com/)
+- [Facebook](https://www.facebook.com/auroracoworking/)
+
+## Bunker
+
+- [Facebook](https://www.facebook.com/Bunker2047)
+
+## MiKK
+
+- [Homepage](http://www.mikk.si/)
+- [Facebook](https://www.facebook.com/mikk.ms/)
+
+# Novo mesto
+
+## Gostišče Loka
+
+- [Homepage](http://gostisce-loka.si/)
+- [Facebook](https://sl-si.facebook.com/gostisceloka)
+- [Map](https://goo.gl/maps/ND4baZk1aT32)
+
+## Brblarna
+
+- [Facebook](https://www.facebook.com/brblarna.kavarna)
+- [Map](https://goo.gl/maps/eEbpndtFq9x)
+
+## BrivBARnica
+
+- [Facebook](https://www.facebook.com/brivbarnica/)
+
 # Contributors
 
 > Please do tell me if I missed something via [@otobrglez](https://twitter.com/otobrglez) or do [new PR](https://github.com/otobrglez/awesome-workplaces-slovenia/pulls).
@@ -183,3 +228,6 @@ To be on this list you *MUST* provide decent:
 - [@davision](https://twitter.com/davision)
 - [@Matic_Uzmah](https://twitter.com/Matic_Uzmah)
 - [@primozcigler](https://twitter.com/primozcigler)
+- [@metalcamp](https://github.com/metalcamp)
+- [@mihacirman](https://twitter.com/mihacirman)
+- [@markobregant](https://twitter.com/markobregant)
