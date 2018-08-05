@@ -58,7 +58,8 @@ To be on this list you *MUST* provide decent:
 
 - [Homepage](http://www.stapotovanja.com/sta/sta-travel-cafe)
 
-## Ziferblat
+## ~~Ziferblat~~
+**Closed** since May 28th 2018
 
 - [Homepage](http://ljubljana.ziferblat.net/en/)
 - [Facebook](https://www.facebook.com/ZiferblatLjubljana)
