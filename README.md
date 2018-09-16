@@ -172,7 +172,9 @@ To be on this list you *MUST* provide decent:
 
 # Velenje
 
-## Kavarna Nova
+## ~~Kavarna Nova~~
+
+**Closed** since aprox May/June 2018, but might reopen under new owner.
 
 - [Map](https://www.google.co.uk/maps/place/Kavarna+Nova/@46.3599016,15.1151933,17z/data=!3m1!4b1!4m5!3m4!1s0x476566d40eaabdf9:0x7a93e7258f3f39dc!8m2!3d46.3598979!4d15.117382?hl=en)
 
