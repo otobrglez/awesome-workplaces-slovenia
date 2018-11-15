@@ -94,10 +94,12 @@ To be on this list you *MUST* provide decent:
 
 - [Homepage](https://www.facebook.com/pritlicje/)
 
-## Egoist
+## Egoistka
 
-- [Homepage](http://www.egoist-loungebar.si/)
-- [Facebook](https://www.facebook.com/egoist.loungebar.7/)
+> This place use to be known as Egoist.
+
+- [Facebook](https://www.facebook.com/bistroegoistka/)
+- [Map](https://www.google.com/maps/search/Tr%C5%BEa%C5%A1ka%20cesta%2037%20Ljubljana,%20Slovenia%201000?hl=en&source=opensearch)
 
 ## Dobra Poteza
 
