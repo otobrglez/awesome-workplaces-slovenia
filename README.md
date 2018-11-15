@@ -93,6 +93,12 @@ To be on this list you *MUST* provide decent:
 - [Description of the place with images](https://medium.com/@primozcigler/rent-a-quiet-and-productive-working-space-at-the-proteusthemes-office-in-ljubljana-slovenia-4fb4e4975973)
 - [Map](https://goo.gl/maps/g65g65KAgRB2)
 
+## Kucha
+
+- [Homepage](https://kucha.co/)
+- [Facebook](https://www.facebook.com/kuchamadre/)
+- [Map](https://goo.gl/maps/ATGGHiiKMQp)
+
 # Maribor
 
 ## Pisarna
