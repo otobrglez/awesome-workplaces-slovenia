@@ -49,7 +49,7 @@ To be on this list you *MUST* provide decent:
 - [Facebook](https://www.facebook.com/kinosiska.si/)
 - [Map](https://www.google.co.uk/maps/place/Kino+%C5%A0i%C5%A1ka+-+Center+urbane+kulture/@46.0689353,14.4869246,17z/data=!3m1!4b1!4m5!3m4!1s0x476532b1175d80cf:0x2be428343fdb306!8m2!3d46.0689316!4d14.4891133?hl=en)
 
-## Mini Cafe Gold
+## Mini Cafe Golf
 
 - [Homepage](http://www.minicafegolf.com)
 - [Facebook](https://www.facebook.com/minigolftivoli/)
@@ -57,6 +57,20 @@ To be on this list you *MUST* provide decent:
 ## STA Travel Cafe
 
 - [Homepage](http://www.stapotovanja.com/sta/sta-travel-cafe)
+
+## Kavarna STOW (MGML)
+
+- [Homepage](https://www.stow.si/)
+- [Homepage MGML](https://mgml.si/sl/mestni-muzej/kavarna/)
+- [Facebook](https://www.facebook.com/stowcoffeeroasters/)
+- [Instagram](https://www.instagram.com/stowcoffeeroasters/)
+- [Map](https://www.google.com/maps/search/Speciality%20Coffee%20Shop%20Gosposka%2015%201000%20Ljubljana?hl=en&source=opensearch)
+
+## LP Bar
+
+- [Homepage](http://www.lpbar.si/)
+- [Facebook](https://www.facebook.com/lp.bar.1/)
+- [Map](https://www.google.com/maps/place/ZRC+SAZU,+Novi+trg+2,+1000+Ljubljana/@46.047263,14.50485,17z/data=!4m5!3m4!1s0x47652d645a4707e1:0xa745e889aa6806d4!8m2!3d46.0473138!4d14.5045646?hl=en)
 
 ## ~~Ziferblat~~
 **Closed** since May 28th 2018
@@ -241,3 +255,6 @@ To be on this list you *MUST* provide decent:
 - [@metalcamp](https://github.com/metalcamp)
 - [@mihacirman](https://twitter.com/mihacirman)
 - [@markobregant](https://twitter.com/markobregant)
+- [@gandalfar](https://github.com/gandalfar)
+- [@peric](https://github.com/peric)
+- [@Mesko89](https://github.com/Mesko89)
