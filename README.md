@@ -157,6 +157,7 @@ To be on this list you *MUST* provide decent:
 ## Gramofonoteka
 
 - [Facebook](https://www.facebook.com/gramofonoteka)
+- [Map](https://goo.gl/maps/bqD2VF6c9QB2)
 
 # Ptuj
 
