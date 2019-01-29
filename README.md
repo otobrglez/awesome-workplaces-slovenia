@@ -154,6 +154,11 @@ To be on this list you *MUST* provide decent:
 - [Homepage](http://brazde.org/2015/caap/tkalka-sodelovalni-prostor/)
 - [Facebook](https://www.facebook.com/tkalka.weaver/)
 
+## Gramofonoteka
+
+- [Facebook](https://www.facebook.com/gramofonoteka)
+- [Map](https://goo.gl/maps/bqD2VF6c9QB2)
+
 # Ptuj
 
 ## MuziKafe
@@ -262,3 +267,4 @@ To be on this list you *MUST* provide decent:
 - [@gandalfar](https://github.com/gandalfar)
 - [@peric](https://github.com/peric)
 - [@Mesko89](https://github.com/Mesko89)
+- [@m0sa](https://twitter.com/m0sa)
