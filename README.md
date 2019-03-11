@@ -9,7 +9,6 @@ To be on this list you *MUST* provide decent:
 * Coffee ☕️ and tea 🍵.
 * Power sockets. ⚡️
 
-
 > Please do tell me if I missed something via [@otobrglez](https://twitter.com/otobrglez) or do [new PR](https://github.com/otobrglez/awesome-workplaces-slovenia/pulls).
 
 ## 🏙 Cities 🏙
@@ -116,6 +115,22 @@ To be on this list you *MUST* provide decent:
 - [Homepage](https://kucha.co/)
 - [Facebook](https://www.facebook.com/kuchamadre/)
 - [Map](https://goo.gl/maps/ATGGHiiKMQp)
+
+## Zavod Mladi podjetnik
+
+- [Homepage](https://mladipodjetnik.si/)
+- [Facebook](https://www.facebook.com/mladipodjetnik)
+- [Twitter](https://twitter.com/MladiPodjetnik)
+- [Instagram](https://www.instagram.com/mladipodjetnik.si/)
+- [Linkedin](https://www.linkedin.com/company/zavod-mladi-podjetnik/)
+- [Map](https://goo.gl/maps/2hpaM2pmKwD2)
+
+## ABC Hub
+
+- [Homepage](http://accelerationbusinesscity.com/sl/price-list/)
+- [Facebook](https://www.facebook.com/abchub)
+- [Twitter](https://twitter.com/hub_abc)
+- [Map](https://goo.gl/maps/dexdyCWo7aF2)
 
 # Maribor
 
@@ -268,3 +283,4 @@ To be on this list you *MUST* provide decent:
 - [@peric](https://github.com/peric)
 - [@Mesko89](https://github.com/Mesko89)
 - [@m0sa](https://twitter.com/m0sa)
+- [@roksamsa](https://github.com/roksamsa)
