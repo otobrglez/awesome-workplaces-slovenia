@@ -293,3 +293,4 @@ To be on this list you *MUST* provide decent:
 - [@Mesko89](https://github.com/Mesko89)
 - [@m0sa](https://twitter.com/m0sa)
 - [@roksamsa](https://github.com/roksamsa)
+- [@slimdeluxe](https://github.com/SlimDeluxe)
