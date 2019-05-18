@@ -16,6 +16,7 @@ To be on this list you *MUST* provide decent:
 - [Ljubljana](#ljubljana)
 - [Maribor](#maribor)
 - [Koper](#koper)
+- [Izola](#izola)
 - [Celje](#celje)
 - [Nova Gorica](#nova-gorica)
 - [Ptuj](#ptuj)
@@ -187,6 +188,14 @@ To be on this list you *MUST* provide decent:
 ## Bife Museum
 
 - [Foursquare](https://foursquare.com/v/bife-museum/4f05911e77c8f87cd1820ff9)
+
+# Izola
+
+## Kavarna Zvon
+
+- [Facebook](https://www.facebook.com/kavarnazvon/)
+- [TripAdvisor](https://www.tripadvisor.com/Restaurant_Review-g608962-d6957572-Reviews-Kavarna_Zvon-Izola_Slovenian_Istria_Slovenian_Littoral_Region.html)
+- [Map](https://goo.gl/maps/HFpk62AFw8cD3bVq7)
 
 # Celje
 
