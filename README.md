@@ -8,6 +8,7 @@ To be on this list you *MUST* provide decent:
 * Ambient without annoying / loud music.
 * Coffee ☕️ and tea 🍵.
 * Power sockets. ⚡️
+* Have no large TV screens playing all the time.
 
 > Please do tell me if I missed something via [@otobrglez](https://twitter.com/otobrglez) or do [new PR](https://github.com/otobrglez/awesome-workplaces-slovenia/pulls).
 
