@@ -17,6 +17,7 @@ To be on this list you *MUST* provide decent:
 - [Ljubljana](#ljubljana)
 - [Maribor](#maribor)
 - [Koper](#koper)
+- [Izola](#izola)
 - [Celje](#celje)
 - [Nova Gorica](#nova-gorica)
 - [Ptuj](#ptuj)
@@ -189,6 +190,14 @@ To be on this list you *MUST* provide decent:
 
 - [Foursquare](https://foursquare.com/v/bife-museum/4f05911e77c8f87cd1820ff9)
 
+# Izola
+
+## Kavarna Zvon
+
+- [Facebook](https://www.facebook.com/kavarnazvon/)
+- [TripAdvisor](https://www.tripadvisor.com/Restaurant_Review-g608962-d6957572-Reviews-Kavarna_Zvon-Izola_Slovenian_Istria_Slovenian_Littoral_Region.html)
+- [Map](https://goo.gl/maps/HFpk62AFw8cD3bVq7)
+
 # Celje
 
 ## Mladinski Center
@@ -285,3 +294,4 @@ To be on this list you *MUST* provide decent:
 - [@Mesko89](https://github.com/Mesko89)
 - [@m0sa](https://twitter.com/m0sa)
 - [@roksamsa](https://github.com/roksamsa)
+- [@slimdeluxe](https://github.com/SlimDeluxe)
