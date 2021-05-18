@@ -69,12 +69,6 @@ To be on this list you *MUST* provide decent:
 - [Facebook](https://www.facebook.com/lp.bar.1/)
 - [Map](https://www.google.com/maps/place/ZRC+SAZU,+Novi+trg+2,+1000+Ljubljana/@46.047263,14.50485,17z/data=!4m5!3m4!1s0x47652d645a4707e1:0xa745e889aa6806d4!8m2!3d46.0473138!4d14.5045646?hl=en)
 
-## ~~Ziferblat~~
-**Closed** since May 28th 2018
-
-- [Homepage](http://ljubljana.ziferblat.net/en/)
-- [Facebook](https://www.facebook.com/ZiferblatLjubljana)
-
 ## Drama Kavarna
 
 - [Facebook](https://www.facebook.com/DramaKavarna/)
