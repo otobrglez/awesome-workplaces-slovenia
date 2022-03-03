@@ -94,18 +94,6 @@ To be on this list you *MUST* provide decent:
 
 - [Twitter](https://twitter.com/DobraPoteza)
 
-## ProteusThemesHQ
-
-- [Homepage](https://www.proteusthemes.com/)
-- [Description of the place with images](https://medium.com/@primozcigler/rent-a-quiet-and-productive-working-space-at-the-proteusthemes-office-in-ljubljana-slovenia-4fb4e4975973)
-- [Map](https://goo.gl/maps/g65g65KAgRB2)
-
-## Kucha
-
-- [Homepage](https://kucha.co/)
-- [Facebook](https://www.facebook.com/kuchamadre/)
-- [Map](https://goo.gl/maps/ATGGHiiKMQp)
-
 ## Zavod Mladi podjetnik
 
 - [Homepage](https://mladipodjetnik.si/)
@@ -121,6 +109,9 @@ To be on this list you *MUST* provide decent:
 - [Facebook](https://www.facebook.com/abchub)
 - [Twitter](https://twitter.com/hub_abc)
 - [Map](https://goo.gl/maps/dexdyCWo7aF2)
+
+## Opera Bar
+- [Map][https://www.google.com/maps?q=opera+bar+ljubljana&um=1]
 
 # Maribor
 
