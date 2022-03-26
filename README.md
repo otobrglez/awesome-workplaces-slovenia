@@ -90,10 +90,6 @@ To be on this list you *MUST* provide decent:
 - [Facebook](https://www.facebook.com/bistroegoistka/)
 - [Map](https://www.google.com/maps/search/Tr%C5%BEa%C5%A1ka%20cesta%2037%20Ljubljana,%20Slovenia%201000?hl=en&source=opensearch)
 
-## Dobra Poteza
-
-- [Twitter](https://twitter.com/DobraPoteza)
-
 ## Zavod Mladi podjetnik
 
 - [Homepage](https://mladipodjetnik.si/)
