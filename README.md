@@ -52,8 +52,8 @@ To be on this list you *MUST* provide decent:
 
 ## STA Travel Cafe
 
-- [Homepage](http://www.stapotovanja.com/sta/sta-travel-cafe)
-- [Map](https://www.google.com/maps/place/Telekom+Center+Ljubljana,+Trg+Ajdov%C5%A1%C4%8Dina/@46.0538152,14.5024111,17z/data=!3m1!4b1!4m5!3m4!1s0x47652d61fda38dd1:0x24c05216596a4df7!8m2!3d46.0538115!4d14.5046051)
+- [Homepage](https://www.facebook.com/stacafe/)
+- [Map](https://goo.gl/maps/hCeF2fK1mth1Loms7)
 
 ## Kavarna STOW (MGML)
 
