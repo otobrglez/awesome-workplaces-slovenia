@@ -14,6 +14,7 @@ To be on this list you *MUST* provide decent:
 
 ## 🏙 Cities 🏙
 
+- [Bled](#bled)
 - [Ljubljana](#ljubljana)
 - [Maribor](#maribor)
 - [Koper](#koper)
@@ -25,6 +26,13 @@ To be on this list you *MUST* provide decent:
 - [Murska Sobota](#murska-sobota)
 - [Novo mesto](#novo-mesto)
 
+# Bled
+
+## SubWork
+
+- [Homepage](https://subwork.xyz)
+- [Meetup group](https://www.meetup.com/subwork/)
+- [Map](https://goo.gl/maps/rCf5gJ99cd6MNgL3A)
 
 # Ljubljana
 
