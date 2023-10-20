@@ -111,7 +111,7 @@ To be on this list you *MUST* provide decent:
 - [Map](https://goo.gl/maps/dexdyCWo7aF2)
 
 ## Opera Bar
-- [Map][https://www.google.com/maps?q=opera+bar+ljubljana&um=1]
+- [Map](https://www.google.com/maps?q=opera+bar+ljubljana&um=1)
 
 # Maribor
 
