@@ -111,7 +111,15 @@ To be on this list you *MUST* provide decent:
 - [Map](https://goo.gl/maps/dexdyCWo7aF2)
 
 ## Opera Bar
-- [Map][https://www.google.com/maps?q=opera+bar+ljubljana&um=1]
+
+- [Map](https://www.google.com/maps?q=opera+bar+ljubljana&um=1)
+
+## Stow
+
+> Hidden in the back of the Ljubljana City Museum
+
+- [Homepage](https://www.stow.si)
+- [Map](https://www.google.com/maps/place/Stow/@46.0469719,14.5015198,17z/data=!3m1!4b1!4m6!3m5!1s0x47652d644dffa535:0xbd038ca6bf0893ae!8m2!3d46.0469682!4d14.5040947!16s%2Fg%2F11d_w86qq3?entry=ttu)
 
 # Maribor
 
