@@ -1,14 +1,14 @@
 # ⚙️ Awesome workplaces in Slovenia 🇸🇮
 
-This is list of "places" in Slovenia where you can enjoy decent cup of coffee ☕️  with solid Wi-Fi 📡 to do some ~~serious~~ work.
+This is list of "places" in Slovenia where you can enjoy decent cup of coffee ☕️ with solid Wi-Fi 📡 to do some ~~serious~~ work.
 
-To be on this list you *MUST* provide decent:
+To be on this list you _MUST_ provide decent:
 
-* Wi-Fi. 📡
-* Ambient without annoying / loud music.
-* Coffee ☕️ and tea 🍵.
-* Power sockets. ⚡️
-* Have no large TV screens playing all the time.
+- Wi-Fi. 📡
+- Ambient without annoying / loud music.
+- Coffee ☕️ and tea 🍵.
+- Power sockets. ⚡️
+- Have no large TV screens playing all the time.
 
 > Please do tell me if I missed something via [@otobrglez](https://twitter.com/otobrglez) or do [new PR](https://github.com/otobrglez/awesome-workplaces-slovenia/pulls).
 
@@ -26,8 +26,13 @@ To be on this list you *MUST* provide decent:
 - [Novo mesto](#novo-mesto)
 - [Šmarješke Toplice](#smarjeske-toplice)
 
-
 # Ljubljana
+
+## Kavarna Cacao
+
+- [Homepage](https://cacao.si/)
+- [Facebook](https://www.facebook.com/Kavarna-Cacao-267467856609016/)
+- [Instagram](https://www.instagram.com/cacao_slovenija/)
 
 ## Kavarna Moderna
 
@@ -112,6 +117,7 @@ To be on this list you *MUST* provide decent:
 - [Map](https://goo.gl/maps/dexdyCWo7aF2)
 
 ## Opera Bar
+
 - [Map][https://www.google.com/maps?q=opera+bar+ljubljana&um=1]
 
 # Maribor
@@ -126,7 +132,6 @@ To be on this list you *MUST* provide decent:
 - [Homepage](http://coworkingmaribor.si/)
 - [Facebook](https://www.facebook.com/coworkingmaribor/)
 - [Map](https://www.google.com/maps/place/Mariborska+razvojna+agencija+P.O./@46.55268,15.65143,15z/data=!4m5!3m4!1s0x0:0xc1cc816cac92d45c!8m2!3d46.5526801!4d15.6514299?ll=46.55268,15.65143&z=15&t=m&hl=en-US&gl=SI&mapclient=embed&cid=13964678848320820316)
-
 
 ## Isabella - Food & Wine
 
@@ -148,6 +153,7 @@ To be on this list you *MUST* provide decent:
 - [Homepage](http://www.kavarnaq.si/?page_id=15)
 
 ## Tkalka
+
 - [Homepage](http://brazde.org/2015/caap/tkalka-sodelovalni-prostor/)
 - [Facebook](https://www.facebook.com/tkalka.weaver/)
 
