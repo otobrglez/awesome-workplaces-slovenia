@@ -24,6 +24,7 @@ To be on this list you *MUST* provide decent:
 - [Velenje](#velenje)
 - [Murska Sobota](#murska-sobota)
 - [Novo mesto](#novo-mesto)
+- [Šmarješke Toplice](#smarjeske-toplice)
 
 
 # Ljubljana
@@ -249,6 +250,13 @@ To be on this list you *MUST* provide decent:
 
 - [Facebook](https://www.facebook.com/brivbarnica/)
 
+# Šmarješke Toplice
+
+## Moletova hiša
+
+- [Facebook](https://www.facebook.com/izvir.cvicka)
+- [Map](https://maps.app.goo.gl/k4GnhSgoftFqvz718)
+
 # Contributors
 
 > Please do tell me if I missed something via [@otobrglez](https://twitter.com/otobrglez) or do [new PR](https://github.com/otobrglez/awesome-workplaces-slovenia/pulls).
@@ -274,3 +282,4 @@ To be on this list you *MUST* provide decent:
 - [@m0sa](https://twitter.com/m0sa)
 - [@roksamsa](https://github.com/roksamsa)
 - [@slimdeluxe](https://github.com/SlimDeluxe)
+- [@damjancvetan](https://github.com/damjancvetan/)
