@@ -1,0 +1,6 @@
+certifi==2017.11.5
+chardet==3.0.4
+googlemaps==2.5.1
+idna==2.6
+requests==2.18.4
+urllib3==1.22
